@@ -1,12 +1,6 @@
 {
   "servers": [
     {
-      "name": "Self-built",
-      "address": "https://server.duanso.site:58443"
-    },
-    {
-  "servers": [
-    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
