@@ -1,2 +1,1 @@
-sidestore
-自签服务器
+sidestore 自签服务器
